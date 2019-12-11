@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zyd/vue-zyd-slide-verify.git"
+    "url": "git+https://github.com/studymani/vue-zyd-slide-verify.git"
   },
   "dependencies": {
     "vue": "^2.5.11"
@@ -23,9 +23,9 @@
     "verify"
   ],
   "bugs": {
-    "url": "https://github.com/monoplasty/vue-monoplasty-slide-verify/issues"
+    "url": "https://github.com/studymani/vue-zyd-slide-verify/issues"
   },
-  "homepage": "https://github.com/monoplasty/vue-monoplasty-slide-verify/blob/master/README.md",
+  "homepage": "https://github.com/studymani/vue-zyd-slide-verify/blob/master/README.md",
   "browserslist": [
     "> 1%",
     "last 2 versions",
